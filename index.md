@@ -37,3 +37,11 @@ Code snippet running server. Under construction now.
 
 * [Database Times vol.1](http://hayamiz.com/~hotchpotch/?p=57)
 * [Database Times vol.2](http://hayamiz.com/~hotchpotch/?p=95)
+
+### Network Staffs
+
+* WIDE Camp Program Committee Member (2009 Spring)
+* WIDE Camp Network Member (2009 Autumn)
+* WIDE Camp Wireless Chief (2010 Spring, 2010 Autumn)
+* [SIPit24](https://www.nic.ad.jp/ja/sipit24/) Network Staff
+* [HINODE3](http://hinode.nao.ac.jp/meeting/hinode-3/) Network Construction (Solo)
