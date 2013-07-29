@@ -45,3 +45,21 @@ Code snippet running server. Under construction now.
 * WIDE Camp Wireless Chief (2010 Spring, 2010 Autumn)
 * [SIPit24](https://www.nic.ad.jp/ja/sipit24/) Network Staff
 * [HINODE3](http://hinode.nao.ac.jp/meeting/hinode-3/) Network Construction (Solo)
+
+### Favorites
+
+* Home Access Point: Aironet AIR-AP1131AG-J-K9 (2.4GHz only...)
+* DNS Servers: BIND9, NSD, Unbound
+* DHCP Servers: ISC DHCPD
+* Mail Servers: Postfix, Dovecot2
+* Web Servers: Apache2.2, Nginx
+* Web Forward Proxy: Squid3 (or what else?)
+* VCS: Git, Subversion, RCS
+* OS(Distributions): FreeBSD, Ubuntu, CentOS
+* Editor: Emacs, Vim
+* Programming Language: mainly Ruby, a little bit on C and Python
+* Earphones: Sony XBA-10
+* Headphones: DENON AH-D2000
+* Speakers: ONKYO GX-100HD
+* Artists: Toto, Bryan Adams, Foo Fighters, Spitz, THEE MICHELLE GUN ELEPHANTS
+* Alchohol: Japanese Sake, Beer
